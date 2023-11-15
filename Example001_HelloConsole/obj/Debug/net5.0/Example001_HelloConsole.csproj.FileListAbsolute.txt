@@ -1,0 +1,16 @@
+C:\Users\Savodyarkin_N\Desktop\Lesson_1_Введение\Example001_HelloConsole\bin\Debug\net5.0\Example001_HelloConsole.exe
+C:\Users\Savodyarkin_N\Desktop\Lesson_1_Введение\Example001_HelloConsole\bin\Debug\net5.0\Example001_HelloConsole.deps.json
+C:\Users\Savodyarkin_N\Desktop\Lesson_1_Введение\Example001_HelloConsole\bin\Debug\net5.0\Example001_HelloConsole.runtimeconfig.json
+C:\Users\Savodyarkin_N\Desktop\Lesson_1_Введение\Example001_HelloConsole\bin\Debug\net5.0\Example001_HelloConsole.runtimeconfig.dev.json
+C:\Users\Savodyarkin_N\Desktop\Lesson_1_Введение\Example001_HelloConsole\bin\Debug\net5.0\Example001_HelloConsole.dll
+C:\Users\Savodyarkin_N\Desktop\Lesson_1_Введение\Example001_HelloConsole\bin\Debug\net5.0\ref\Example001_HelloConsole.dll
+C:\Users\Savodyarkin_N\Desktop\Lesson_1_Введение\Example001_HelloConsole\bin\Debug\net5.0\Example001_HelloConsole.pdb
+C:\Users\Savodyarkin_N\Desktop\Lesson_1_Введение\Example001_HelloConsole\obj\Debug\net5.0\Example001_HelloConsole.csprojAssemblyReference.cache
+C:\Users\Savodyarkin_N\Desktop\Lesson_1_Введение\Example001_HelloConsole\obj\Debug\net5.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Savodyarkin_N\Desktop\Lesson_1_Введение\Example001_HelloConsole\obj\Debug\net5.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Savodyarkin_N\Desktop\Lesson_1_Введение\Example001_HelloConsole\obj\Debug\net5.0\Example001_HelloConsole.AssemblyInfo.cs
+C:\Users\Savodyarkin_N\Desktop\Lesson_1_Введение\Example001_HelloConsole\obj\Debug\net5.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Savodyarkin_N\Desktop\Lesson_1_Введение\Example001_HelloConsole\obj\Debug\net5.0\Example001_HelloConsole.dll
+C:\Users\Savodyarkin_N\Desktop\Lesson_1_Введение\Example001_HelloConsole\obj\Debug\net5.0\ref\Example001_HelloConsole.dll
+C:\Users\Savodyarkin_N\Desktop\Lesson_1_Введение\Example001_HelloConsole\obj\Debug\net5.0\Example001_HelloConsole.pdb
+C:\Users\Savodyarkin_N\Desktop\Lesson_1_Введение\Example001_HelloConsole\obj\Debug\net5.0\Example001_HelloConsole.genruntimeconfig.cache
